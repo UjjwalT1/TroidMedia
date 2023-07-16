@@ -7,3 +7,17 @@ As a result no buffers for frames are being allocaed to media and only the audio
 
 
 Altough the Jar file works fine as expected. I think that the problem is with the manner of packaging that I am currently unaware of.
+
+Added Folders
+![image](https://github.com/UjjwalT1/TroidMedia/assets/121283901/c36b6678-936e-4e47-b673-7fa4438ee20b)
+
+Playing sample video
+![image](https://github.com/UjjwalT1/TroidMedia/assets/121283901/1df95ae3-10b7-44d2-b0c0-ad820179b185)
+
+Settings Tab
+![image](https://github.com/UjjwalT1/TroidMedia/assets/121283901/9d491396-666b-4c98-9abc-44e21bb840ff)
+
+
+
+
+
